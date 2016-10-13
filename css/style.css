@@ -1,0 +1,14 @@
+img {
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  display block;
+}
+.col-md-4 img{
+  width: 75%;
+  float: left;
+  padding: 20px;
+}
+.col-md-4 h2{
+  text-align: center;
+}
